@@ -13,3 +13,4 @@ for _ in range(1000):
     if done:
         observation, info = env.reset()
 env.close()
+#this is my first git commit
